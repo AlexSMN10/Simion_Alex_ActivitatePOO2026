@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Simion_Alex_ActivitatePOO2026/Simion_Alex_ActivitatePOO2026.vcxproj" />
+</Solution>
